@@ -1,0 +1,2 @@
+# twitter_auto_batch_download
+半自动免费推特批量下载用户上传的图片，需要Bulk Image Downloader作为辅助
